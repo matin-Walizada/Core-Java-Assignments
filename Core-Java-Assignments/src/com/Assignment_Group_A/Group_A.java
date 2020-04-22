@@ -11,6 +11,8 @@ public class Group_A {
 	//how to push the code to gitHub
 	
 	public void codePush() {
+		  
+		System.out.println("This is for Mustafa git practice ");
 		
 		
 	}

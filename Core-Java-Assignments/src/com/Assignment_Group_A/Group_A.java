@@ -2,6 +2,8 @@ package com.Assignment_Group_A;
 
 public class Group_A {
 
+	private Object pushed;
+
 	public void gitHub() {
 		
 		System.out.println("this is from Basir ");
@@ -12,6 +14,7 @@ public class Group_A {
 	
 	public void codePush() {
 		
+		System.out.println(" this is Mina");
 		
 	}
 	

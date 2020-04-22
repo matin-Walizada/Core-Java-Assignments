@@ -20,5 +20,9 @@ public class Group_A {
 	{
 		System.out.println("This is pushed by Wahidullah Rahimi");
 	}
-
+    //Wahidullah Rahimi
+	public void WahidRahimi()
+	{
+		System.out.println("Test");
+	}
 }

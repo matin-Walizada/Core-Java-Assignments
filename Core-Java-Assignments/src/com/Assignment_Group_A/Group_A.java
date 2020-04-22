@@ -17,6 +17,13 @@ public class Group_A {
 		
 	}
 	
+	//GitHub Homework - Wahidullah Rahimi
+	public void WahidullahRahimi2() {
+		  
+		System.out.println("This is homework ");
+		
+		
+	}
 	
 
 }

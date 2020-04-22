@@ -15,6 +15,10 @@ public class Group_A {
 		
 	}
 	
-	
+	// This is code is Pushed by Wahidullah Rahimi 
+	public void testMethod()
+	{
+		System.out.println("This is pushed by Wahidullah Rahimi");
+	}
 
 }

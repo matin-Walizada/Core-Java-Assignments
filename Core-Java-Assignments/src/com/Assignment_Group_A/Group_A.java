@@ -8,6 +8,13 @@ public class Group_A {
 
 	}
 	
+	//how to push the code to gitHub
+	
+	public void codePush() {
+		
+		
+	}
+	
 	
 
 }

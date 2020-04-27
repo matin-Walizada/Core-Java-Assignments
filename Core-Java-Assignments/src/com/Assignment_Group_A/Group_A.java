@@ -17,6 +17,11 @@ public class Group_A {
 		
 	}
 	
+	public void WahidullahHomeWork()
+	{
+		System.out.println("This is gitHub homework");
+	}
+	
 	
 
 }

@@ -22,6 +22,9 @@ public class Group_A {
 		System.out.println("This is gitHub homework");
 	}
 	
-	
+	public void WahidullahHomeWork2()
+	{
+		System.out.println("This is gitHub homework");
+	}
 
 }

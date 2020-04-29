@@ -17,6 +17,13 @@ public class Group_A {
 		
 	}
 	
+	public void codePush1() {
+		  
+		System.out.println("This is for Mustafa git practice ");
+		
+		
+	}
+	
 	
 
 }
